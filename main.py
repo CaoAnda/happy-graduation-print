@@ -24,7 +24,7 @@ draw.text(coordinates, text, color, font = font)
 
 img_array = np.array(img)
 # img.show()
-
+ 
 # 从上往下
 clear()
 for i in range(height):
